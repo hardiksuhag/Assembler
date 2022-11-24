@@ -4,17 +4,17 @@
 Use any linux distribution with GNU compiler on or after C++ 14 ( >= GCC 6.3).  
 
 ## Usage
-$g++ assembler.cpp -o assembler  
-$./assembler COPY.txt  
+    $g++ assembler.cpp -o assembler  
+    $./assembler COPY.txt  
 
 ## Intermediate Files
 To view 'Intermediate File', 'Assembly listing' or 'Output Object Program' use:-  
-$cat intermediate_file.txt  
-$cat assembly_listing.txt  
-$cat output_object_program.txt  
+    $cat intermediate_file.txt  
+    $cat assembly_listing.txt  
+    $cat output_object_program.txt  
 
 
-## ASSEMBLER SETTINGS :=
+## ASSEMBLER SETTINGS
     1) Warn for blank lines
     2) Tab size
     3) Default program name
@@ -22,7 +22,7 @@ $cat output_object_program.txt
     5) Object program name
 All these settings can be set in macros section of the assembler code.
 
-## ERROR SYNOPSIS :=
+## ERROR SYNOPSIS
 My assembler shows a wide variety errors and warnings. They are mentioned here in brief
 
 ### File Related Errors
