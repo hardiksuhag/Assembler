@@ -1,27 +1,20 @@
 /*
 Author - Hardik Suhag
-Roll Number - 190101038
-Assignment - 01
-
 
 Compilation Environment:
 Use any linux distribution with GNU compiler on or after C++ 14 ( >= GCC 6.3)
 
-
 To compile program use:-
-$g++ 190101038_Assign01.cpp -o assembler
+$g++ assembler.cpp -o assembler
 $./assembler COPY.txt
-
 
 To view 'Intermediate File', 'Assembly listing' or 'Output Object Program' use:-
 $cat intermediate_file.txt
 $cat assembly_listing.txt
 $cat output_object_program.txt
 
-
 To view how the code works and its documentation, open the 'readme.txt' file:-
 $cat readme.txt
-
 
 */
 
