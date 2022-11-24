@@ -1,6 +1,6 @@
 # SIC/XE Assembler
 
-## Compilation Environment:
+## Compilation Environment
 Use any linux distribution with GNU compiler on or after C++ 14 ( >= GCC 6.3).  
 
 ## Usage
