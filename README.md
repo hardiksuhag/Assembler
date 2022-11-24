@@ -23,7 +23,7 @@ $cat output_object_program.txt
 All these settings can be set in macros section of the assembler code.
 
 ## ERROR SYNOPSIS :=
-My assembler shows are wide variety errors and warnings. They are mentioned here in brief
+My assembler shows a wide variety errors and warnings. They are mentioned here in brief
 
 ### File Related Errors
     1) If no input file provided
