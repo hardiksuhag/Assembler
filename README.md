@@ -8,11 +8,10 @@ Use any linux distribution with GNU compiler on or after C++ 14 ( >= GCC 6.3).
     $./assembler COPY.txt  
 
 ## Intermediate Files
-To view 'Intermediate File', 'Assembly listing' or 'Output Object Program' use:-  
     $cat intermediate_file.txt  
     $cat assembly_listing.txt  
     $cat output_object_program.txt  
-
+Use these to view 'Intermediate File', 'Assembly listing' or 'Output Object Program'.  
 
 ## ASSEMBLER SETTINGS
     1) Warn for blank lines
